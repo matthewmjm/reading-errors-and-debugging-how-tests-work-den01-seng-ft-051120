@@ -1,13 +1,13 @@
 # Add your variables here
 
-first_number =
+first_number = 100
 
-second_number =
+second_number = 12
 
-sum =
+sum = first_number + second_number
 
-difference =
+difference = first_number - second_number
 
-product =
+product = first_number * second_number
 
-quotient =
+quotient = first_number / second_number
