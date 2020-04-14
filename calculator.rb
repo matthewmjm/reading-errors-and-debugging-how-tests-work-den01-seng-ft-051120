@@ -8,3 +8,5 @@ sum =
 
 difference =
 
+product =
+
