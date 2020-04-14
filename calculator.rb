@@ -6,3 +6,5 @@ second_number =
 
 sum =
 
+difference =
+
